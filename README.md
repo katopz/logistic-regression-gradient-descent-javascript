@@ -8,7 +8,7 @@ This example project demonstrates how [gradient descent](https://en.wikipedia.or
 
 ## Installation
 
-* `git clone git@github.com:javascript-machine-learning/logistic-regression-gradient-descent-javascript.git`
-* `cd logistic-regression-gradient-descent-javascript`
-* `npm install`
-* `npm start`
+```
+npm i
+npm run start
+```
